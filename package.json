@@ -1,14 +1,14 @@
 {
-  "name": "@apeswapfinance/sdk",
+  "name": "@ehyqal/apesdk",
   "license": "MIT",
-  "version": "1.0.4",
+  "version": "1.0.1",
   "description": "🛠 An SDK for building applications on top of apeswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/ApeSwapFinance/apeswap-sdk",
+  "repository": "https://github.com/hyqal/apesdk",
   "keywords": [
     "pancakeswap",
     "ethereum"
